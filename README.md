@@ -1,4 +1,5 @@
-100 BULLETS : RECALL 개인정보처리방침
+<h2 id="deletion">100 BULLETS : RECALL 개인정보처리방침</h2>
+
 시행일 2026-11-09
 
 Recall Garden은 Android 게임 100 BULLETS : RECALL을 운영합니다. 이 방침은 게임의 계정, 클라우드 저장, 온라인 랭킹 기능에서 처리하는 개인정보와 이용자의 권리 행사 방법을 안내합니다.
