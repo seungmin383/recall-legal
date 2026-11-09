@@ -1,4 +1,4 @@
-**<h2 id="deletion">100 BULLETS : RECALL 개인정보처리방침</h2>
+<h2 id="deletion">100 BULLETS : RECALL 개인정보처리방침</h2>
 
 시행일 2026-11-09
 
